@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">白芯源 2024110502</string>
+
+    <string name="add_textview">ADD TEXTVIEW</string>
+    <string name="new_text">This is a new textView:%d</string>
+
+    <string name="select_language">新语言</string>
+    <string name="confirm">确定</string>
+    <string-array name="language_array">
+        <item>kotlin</item>
+        <item>java</item>
+        <item>python</item>
+        <item>c++</item>
+    </string-array>
+</resources>
